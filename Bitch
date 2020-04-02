@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+   
+   <title style= -webkit-font-smoothing: antialiased; Sarah is Coding > </title> 
+  <head>  
+      
+    <script> 
+        function myAlertMath()
+        {
+            var userNumber=document.getElementById("mathInput").value;
+            
+            alert("your number x 5 is " + userNumber * 5);
+        }
+    </script>
+      
+      <script type="text/javascript">
+          
+              function Suzanne()
+              { alert("I love you")
+              }
+        
+              </script> 
+      
+      <button onclick="alert('Suzanne')";>I love you</button>
+    
+    
+        <style>
+            h4{
+                color:maroon;
+                margin-left:60px;
+                background-color:red;
+                border:solid;
+                border-width:20px;
+                border-color:black;
+            }
+        
+            .period{
+                
+                color: black;
+                font-family: sans-serif;
+                font-size: 10px;
+                
+            }
+            .row{
+                background-color: antiquewhite;
+                padding:50px;
+                margin: 20px;
+                     
+            
+            
+        </style>
+        
+    
+    <script type="text/javascript"> 
+        function addparagraphtext()
+        {
+            document.getElementById("para").innerHTML="Thanks for adding me";
+        }
+    
+    </script>
+        
+    </head>
+    
+    
+    
+    <body style="background-color:yellow;">
+        <h1 style="webkit-font-smoothing:antialiased;font-size:50px;"> Im an awesome cool girl </h1>
+        
+         
+     
+        
+        <button onclick="alert('para');">Youre awesome </button>
+        
+    
+        <button onclick="alert('The test worked')";>Alert Test</button>
+        
+        <input id="mathInput"type="number"/><button onclick="myAlertMath('mathInput')">Multiplyx5</button>    
+        
+         
+    
+        
+        <h3> so whats up with H3 </h3>
+    
+        
+        
+        <p> Im testing my first paragraph in html! </p>
+        
+        
+        <a href= "http://www.pod-zemni.com"> Go to Suzanne's website </a>
+        
+        <p> Click on this hyperlink and be transported to a world of pure imagination </p>
+        
+        <br> 
+        <a href=https://www.poetryfoundation.org/poems-and-poets/poets/detail/william-shakespeare target="framename"> <img src="https://media.poetryfoundation.org/m/image/760/william-shakespeare.jpg?w=448&h=&fit=max" width="400" height="250"/></a>
+
+        
+        <p class="period" > Since the Romantic period the frank sexuality of Shakespeares Venus has held less appeal for literary critics and scholars than it had to Elizabethan and Jacobean readers. C.S. Lewis concludes in English Literature in the Sixteenth Century, Excluding Drama (1954) that if the poem is not meant to arouse disgust it was very foolishly written <br>  In <strong> more </strong>recent years a combination of <em> feminism </em> cultural studies, renewed interest in rhetoric, and a return to traditional archival research has begun to reclaim Venus and Adonis from such prejudice. </p>
+     <H4> Reasons I <mark>choose</mark> Suzanne </H4> 
+        <!-- This is my sample table--> 
+        
+<table border="50px" Style="border:solid;">
+   <tr class="row">
+       <th>I</th>
+       <th>love</th>
+       <th>You</th> 
+    </tr> 
+    
+    <tr>
+        <td class="row"><strong>Reason 1</strong> </td> <td> She makes me smile</td><td> Funny </td>
+    </tr>
+    <tr>
+    <td><strong>Reason 2 </strong> </td> <td> She keeps me honest</td><td>transparent</td>
+        </tr>
+    <tr>
+    <td><strong> Reason 3</strong> </td> <td> She loves me as I am</td><td> kind </td>
+    </tr>
+    
+        </table>
+        <H5 style="color:orange;"> These are a few of my favorite things </H5>
+    
+        <br>
+            <a style="color:hotpink;font-family:verdana; font-size:300%;" href="http://allrecipes.com/recipe/90295/moms-apple-fritters/" target="framename"> apple fritters  </a> 
+        
+        <br>
+        <br>
+        <br>
+        
+            <select name="Favorites">
+            <option Value="apple Fritter"> Apple Fritter</option>
+            <option Value="Suzie"> Suzie</option>
+            <option Value="Molly & Rufus"> Molly and Rufus</option>
+            <option Value="Family"> Family </option>
+            
+            
+        
+        
+        
+        </select>
+    
+
+
+
+
+
+
+
+</table>
+        
+        
+
+       
+        
+        
+    </body>
+    
+    </html>
+        
